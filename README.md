@@ -12,7 +12,7 @@ Content of this blog mainly covers following areas of AIOPS:
 	* DNN
 	* Boosting/Bagging/Ensembles
 	* Meta Learning
-	* Model Transfer
+	* Model Transfer/Transfer Learning
 	* Feature Analysis
 - Novel use cases of AIOPS.
 - Theory and science of AIOPS.
