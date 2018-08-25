@@ -6,7 +6,7 @@ This is a github repository where ideas and technical articiles on AIOPS are pub
 
 Update of Articles
 
-* Graph/Network Embedding (articles/embeddings.md)
-* Novelty Detection (articiles/novelty.md)
-* Chang Point Detections(articiles/cp.md)
+* [Graph/Network Embedding](articles/embeddings.md)
+* [Novelty Detection](articiles/novelty.md)
+* [Chang Point Detections](articiles/cp.md)
 
